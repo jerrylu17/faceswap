@@ -1,0 +1,14 @@
+/mnt/d/User Folders/Documents/GitHub/faceswap/dlib-19.6/build/CMakeFiles/install.dir
+/mnt/d/User Folders/Documents/GitHub/faceswap/dlib-19.6/build/CMakeFiles/list_install_components.dir
+/mnt/d/User Folders/Documents/GitHub/faceswap/dlib-19.6/build/CMakeFiles/install/strip.dir
+/mnt/d/User Folders/Documents/GitHub/faceswap/dlib-19.6/build/CMakeFiles/install/local.dir
+/mnt/d/User Folders/Documents/GitHub/faceswap/dlib-19.6/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/User Folders/Documents/GitHub/faceswap/dlib-19.6/build/CMakeFiles/edit_cache.dir
+/mnt/d/User Folders/Documents/GitHub/faceswap/dlib-19.6/build/dlib/CMakeFiles/rebuild_cache.dir
+/mnt/d/User Folders/Documents/GitHub/faceswap/dlib-19.6/build/dlib/CMakeFiles/edit_cache.dir
+/mnt/d/User Folders/Documents/GitHub/faceswap/dlib-19.6/build/dlib/CMakeFiles/install.dir
+/mnt/d/User Folders/Documents/GitHub/faceswap/dlib-19.6/build/dlib/CMakeFiles/list_install_components.dir
+/mnt/d/User Folders/Documents/GitHub/faceswap/dlib-19.6/build/dlib/CMakeFiles/dlib.dir
+/mnt/d/User Folders/Documents/GitHub/faceswap/dlib-19.6/build/dlib/CMakeFiles/dlib_shared.dir
+/mnt/d/User Folders/Documents/GitHub/faceswap/dlib-19.6/build/dlib/CMakeFiles/install/local.dir
+/mnt/d/User Folders/Documents/GitHub/faceswap/dlib-19.6/build/dlib/CMakeFiles/install/strip.dir
